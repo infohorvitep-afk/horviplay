@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "apps": [
+    {
+      "id": "spider",
+      "name": "Spider-Damián",
+      "icon": "🕷️",
+      "cat": "Rodina",
+      "url": "",
+      "desc": "Motivačná aplikácia – odkaz treba overiť"
+    },
+    {
+      "id": "kuchyna",
+      "name": "Naša kuchyňa",
+      "icon": "🥗",
+      "cat": "Rodina",
+      "url": "https://nasa-kuchyna.info-horvitep.chatgpt.site/",
+      "desc": "Recepty a jedálničky"
+    },
+    {
+      "id": "os",
+      "name": "HorviTep OS",
+      "icon": "🧽",
+      "cat": "Firma",
+      "url": "https://sites.google.com/view/horvitepos?usp=sharing",
+      "desc": "Firemný systém"
+    },
+    {
+      "id": "academy",
+      "name": "HorviTep Academy",
+      "icon": "🎓",
+      "cat": "Vzdelávanie",
+      "url": "",
+      "desc": "Odborné školenia"
+    },
+    {
+      "id": "klub",
+      "name": "HorviTep Klub",
+      "icon": "🛡️",
+      "cat": "Firma",
+      "url": "",
+      "desc": "Správa členstiev"
+    },
+    {
+      "id": "budget",
+      "name": "Rodinný rozpočet",
+      "icon": "💶",
+      "cat": "Rodina",
+      "url": "",
+      "desc": "Finančný plán"
+    },
+    {
+      "id": "domacnosti",
+      "name": "HorviTep Domácnosti",
+      "icon": "🏡",
+      "cat": "Firma",
+      "url": "",
+      "desc": "Plánovanie domácností"
+    },
+    {
+      "id": "dispecing",
+      "name": "HorviMan Dispečing",
+      "icon": "🚙",
+      "cat": "Firma",
+      "url": "",
+      "desc": "Trasy a zákazky"
+    },
+    {
+      "id": "ludomil",
+      "name": "Ľudomil",
+      "icon": "💜",
+      "cat": "Firma",
+      "url": "",
+      "desc": "Dobročinný projekt"
+    }
+  ]
+}
