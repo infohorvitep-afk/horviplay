@@ -1,0 +1,19 @@
+{
+  "name": "HorviPlay – centrum aplikácií",
+  "short_name": "HorviPlay",
+  "description": "Všetky tvoje aplikácie na jednom mieste",
+  "lang": "sk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101322",
+  "theme_color": "#101322",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
